@@ -1,0 +1,5 @@
+第1轮 街道：甲=有skill/街道_v1 乙=无skill/街道_v1
+第1轮 书桌：甲=有skill/书桌_v2 乙=无skill/书桌_v1
+第1轮 长椅：甲=无skill/长椅_v4 乙=有skill/长椅_v2
+第2轮 街道：有skill/街道_v3（无skill 街道_v1 上轮已通过）
+第2轮 书桌：甲=有skill/书桌_v3 乙=无skill/书桌_v2
